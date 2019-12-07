@@ -218,7 +218,7 @@ virtualenv-clone==0.5.3
 wcwidth==0.1.7
 webencodings==0.5
 WebOb==1.7.3
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==2.0.1
 wrapt==1.11.1
 wxPython==3.0.2.0
