@@ -163,7 +163,7 @@ python-twitter==3.4.2
 python-utils==2.2.0
 pytz==2019.1
 PyVirtualDisplay==0.2.4
-pyxdg==0.25
+pyxdg==0.26
 PyYAML==5.1.2
 pyzmq==16.0.2
 qtconsole==4.5.1
