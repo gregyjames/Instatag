@@ -208,7 +208,7 @@ toyplot==0.17.0
 toytree==0.1.18
 traitlets==4.3.2
 tweepy==3.6.0
-Twisted==17.9.0
+Twisted==19.7.0
 typing==3.6.2
 uritemplate==3.0.0
 urllib3==1.24.3
